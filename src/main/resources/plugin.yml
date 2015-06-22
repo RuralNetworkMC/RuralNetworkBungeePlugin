@@ -1,0 +1,4 @@
+name: RuralNetwork
+main: com.ruralnetwork.bplugin.RuralNetwork
+version: 1.0.0-B2
+author: Chaka
